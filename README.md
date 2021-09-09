@@ -15,4 +15,4 @@ This demo uses Geopandas and MPilot to build a simple EEMS model.
         - `3_EEMS_Output.gdb`
         - `Simple_EEMS_Model.ipynb`
 
-**Once the above is complete, refer to [Simple_EEMS_Model.ipynb](#) for the GIS processing workflow.**
+**Once the above is complete, refer to [Simple_EEMS_Model.ipynb](https://github.com/zcanter/MPilot-Geospatial-Tutorial/blob/main/Simple_EEMS_Model.ipynb) for the GIS processing workflow.**
