@@ -7,7 +7,7 @@ This demo uses Geopandas and MPilot to build a simple EEMS model. It assumes beg
 1. Have a Python environment capable of conda environments and Jupyter Notebooks. I use [Anaconda Navigator](https://www.anaconda.com/products/individual-d) which contains JupyterLab. Install the following Python libraries to the conda environment.
     - Install [Geopandas](https://geopandas.org/): `conda install -c conda-forge geopandas` 
     - Install [MPilot](https://github.com/consbio/mpilot): `pip install mpilot`
-2. Download the [sample input reporting units data](). 
+2. Download the [sample input reporting units data](https://databasin.org/datasets/011439caaffd491c8a04cab4bcd18805/). 
 
 We will be following the [EEMS Manual](https://drive.google.com/file/d/1TecJThaS1L85E-5hahorz9JSRyY2eQmR/view?usp=sharing) 3.3 Tutorial section to build the following EEMS model out of the sample input reporting units.
 
